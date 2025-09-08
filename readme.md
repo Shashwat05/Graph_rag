@@ -2,7 +2,7 @@
 
 ![Graph RAG • LangChain • Python • GraphRetriever](https://img.shields.io/badge/Graph%20RAG-LangChain%20%7C%20Python%20%7C%20GraphRetriever-blue)
 
-![Project Banner](graph-rag-banner.png)
+![Project Banner](graph_rag.png)
 
 
 ## Overview
